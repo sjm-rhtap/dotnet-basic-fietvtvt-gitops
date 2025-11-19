@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/sjmrhtap/dotnet-basic-fietvtvt:0539b0693e3f78027291f3e506d606ce8b3540e6@sha256:2efdea5a207e958f07e2bab2e870d3be4ec3add7240467a700d040e8ad13a008
+        - image: quay.io/sjmrhtap/dotnet-basic-fietvtvt:c61cf997c5f3a26a0ae5a40d9d17d64427181627@sha256:7808464d7e8fd4e94b11bf6e25446e005802424abc01688b2d0cd06c70446b35
           name: container-image
